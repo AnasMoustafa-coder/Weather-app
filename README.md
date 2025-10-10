@@ -22,7 +22,3 @@ This project was inspired by a challenge from [Frontend Mentor](https://www.fron
 - **JavaScript (ES6+)** – API integration, DOM manipulation, and interactivity.
 - **Open-Meteo API** – Provides real-time and forecast weather data.
 - **LocalStorage** – Stores user preferences for a personalized experience.
-
----
-
-## 📂 Project Structure
